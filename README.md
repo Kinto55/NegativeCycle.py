@@ -1,0 +1,2 @@
+# NegativeCycle.py
+In a Directed Graph, if the sum of the weight along the         cycle turns out to be negative, then the graph is said to have         a negative cycle. Detection of the negative cycle in a graph is very         important for better implementation of pathfinding algorithms.  Purpose: Given a Directed Weighted Graph with N nodes and M edges, where         each edge possesses an integer weight. Detect whether the given Graph has a negative cycle or not.
